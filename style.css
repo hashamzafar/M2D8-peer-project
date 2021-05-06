@@ -1,0 +1,67 @@
+.box{
+    border: 1px solid gray;
+    margin: 20px;
+}
+P{
+    padding: 10px;
+}
+h4{
+    padding: 10px;
+
+}
+details{
+    padding: 10px;
+    border: 1px solid gray;
+    background-color: lightgray;
+}
+
+.btn{
+    margin: 10px;
+}
+aside{
+    align-items: center;
+}
+.btnButtom1{
+    border:1px solid lightgray;
+    align-items: center;
+    color: blue;
+
+}
+.btnButtom2{
+    border:1px solid lightgray;
+    padding-left: 10px;
+}
+
+.btnButtom{
+    text-align: center;
+}
+
+.search{
+    border: 2px solid lightgray;
+    padding:10px;
+}
+.categories{
+    border: 2px solid lightgray;
+    padding:10px;
+    width: 320px;
+    margin: 15px;
+}
+
+.widget{
+    border: 2px solid lightgray;
+    padding:10px;
+    width: 320px;
+    margin: 15px;
+}
+
+
+.myH5{
+    border: 2px solid gray;
+    background-color: lightgray;
+    padding-left:15px ;
+    margin-bottom: 10px;
+    
+}
+.footer a{
+    color: black;
+}
